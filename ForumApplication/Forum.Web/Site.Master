@@ -1,0 +1,133 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.Master.cs" Inherits="Forum.Web.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="title" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+    <link href="Main.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <table border="1">
+                <tr>
+                    <td class="header_column">
+                        <table border="0" cellspacing="10" cellspacing="0">
+                            <tr>
+                                <td class="logo_area">
+                                    <img src="App_Themes/Theme1/Images/img-logo.jpg" style="width: 120px; height: 100px" />
+                                </td>
+                                <td width="300">
+                                    <form id="form2" name="form2" method="post" action="">
+                                        <br />
+                                        <input name="username" placeholder="Username" type="text" id="user_name" />
+                                        <br />
+                                        <br />
+                                        <input name="password" placeholder="Password" type="text" id="pass_word" />
+                                        <input type="submit" name="sign_in" value="Sign in" />
+                                    </form>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+            <%--<table border="1">
+                <tr>
+                    <th class="board-category" colspan="7">
+                        <h4 class="category">English</h4>
+                    </th>
+                </tr>
+                <tr class="header">
+                    <td>
+                        <img class="status-head"
+                            src="http://cdn.arstechnica.net/civis/ars/theme/images/pages.png" />
+                    </td>
+                    <th class="board-header">Forum</th>
+                    <th class="topics-header">Topics</th>
+                    <th class="posts-header">Posts</th>
+                    <th class="last-post-header">Last Post</th>
+                </tr>
+                <tr class="board-row">
+                    <td class="board-icon">
+                        <img class="board-icon"
+                            src="http://turullegion.org/images/plain-letter.png" />
+                    </td>
+                    <td class="board-info">
+                        <a href="#">
+                            <span class="board-title">SharePoint</span><br />
+                            <span class="board-description">Read about the latest stuff</span>
+                        </a>
+                    </td>
+                    <td class="board-topics">20</td>
+                    <td class="board-posted">320</td>
+                    <td>
+                        <div class="board-last-posted">
+                            Wed Mar 26, 2015 5:55pm
+                            <br />
+                            By
+                            <a href="#">Jasenko</a>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="board-row">
+                    <td class="board-icon">
+                        <img class="board-icon"
+                            src="http://turullegion.org/images/plain-letter.png" />
+                    </td>
+                    <td class="board-info">
+                        <a href="#">Web</a>
+                    </td>
+                    <td class="board-topics">20</td>
+                    <td class="board-posted">543</td>
+                    <td>
+                        <div class="board-last-posted">
+                            Wed Mar 26, 2015 6:00pm<br />
+                            By <a href="#">Jasenko</a>
+                        </div>
+                    </td>
+                </tr>
+                <tr class="board.row">
+                    <td class="board-icon">
+                        <img class="board-icon" src="http://turullegion.org/images/plain-letter.png" />
+                    </td>
+                    <td class="board-info">
+                        <a href="#">Support</a>
+                    </td>
+                    <td class="board-topics">234</td>
+                    <td class="board-posted">1231023</td>
+                    <td>
+                        <div class="board-last-posted">
+                            Tue Mar 25, 2015 3:12pm<br />
+                            By <a href="#">Jasenko</a>
+                        </div>
+                    </td>
+                </tr>
+            </table>--%>
+
+            <table border="1">
+                <tr class="head">
+                    <div class="content">
+                        <asp:ContentPlaceHolder ID="contentBody" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </tr>
+            </table>
+            <div class="menu">
+                <div class="clear"></div>
+
+                <div class="clear"></div>
+                <div class="footer">
+                    <h6>Created by Jasenko</h6>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

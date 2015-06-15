@@ -1,0 +1,12 @@
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\Forum.Web.dll.config
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\Forum.Web.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\Forum.Web.pdb
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\EntityFramework.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\Forum.DataLayer.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\Forum.DataLayer.pdb
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\EntityFramework.xml
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\obj\Debug\Forum.Web.csprojResolveAssemblyReference.cache
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\obj\Debug\Forum.Web.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.Web\obj\Debug\Forum.Web.pdb

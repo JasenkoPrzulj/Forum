@@ -1,0 +1,10 @@
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\Forum.DataLayer.dll.config
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\Forum.DataLayer.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\Forum.DataLayer.pdb
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\obj\Debug\Forum.DataLayer.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.DataLayer\obj\Debug\Forum.DataLayer.pdb
+C:\Users\administrator.SPO14S\documents\visual studio 2013\Projects\ForumApplication\Forum.DataLayer\obj\Debug\Forum.DataLayer.csprojResolveAssemblyReference.cache

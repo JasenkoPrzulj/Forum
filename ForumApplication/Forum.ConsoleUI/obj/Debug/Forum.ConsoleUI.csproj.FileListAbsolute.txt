@@ -1,0 +1,12 @@
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\Forum.ConsoleUI.exe.config
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\Forum.ConsoleUI.exe
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\Forum.ConsoleUI.pdb
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\EntityFramework.dll
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\EntityFramework.xml
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\obj\Debug\Forum.ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\obj\Debug\Forum.ConsoleUI.exe
+c:\users\administrator.spo14s\documents\visual studio 2013\Projects\ForumApplication\Forum.ConsoleUI\obj\Debug\Forum.ConsoleUI.pdb
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\Forum.DataLayer.dll
+C:\Users\administrator.SPO14S\Documents\Visual Studio 2013\Projects\ForumApplication\Forum.ConsoleUI\bin\Debug\Forum.DataLayer.pdb
